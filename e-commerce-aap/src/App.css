@@ -1,0 +1,256 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#navbar {
+  display: inline;
+}
+.text-header {
+  font-family: Public Sans;
+  font-size: 81px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: -0.4000000059604645px;
+  align-items: center;
+}
+.nav-btn {
+  margin-left: auto;
+  width: 308px;
+  height: 89px;;
+  background: #b58d8d;
+}
+.emptyheader {
+  background: #c4c4c4;
+  width: 1398px;
+  height: 521px;
+  top: 105px;
+  left: 4px;
+}
+
+.text-cata {
+  font-family: Public Sans;
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 62px;
+  letter-spacing: -2.4000000953674316px;
+  text-align: center;
+}
+.rectangle-69 {
+  width: 312px;
+  height: 62px;
+  top: 776px;
+  left: 530px;
+  background: #d9d9d9;
+}
+.grid13 {
+  display: flex;
+  flex: 1;
+  width: Fixed (1, 151px);
+  height: Hug (400px);
+  top: 995px;
+  left: 110px;
+  gap: 10px;
+  align-items: center;
+}
+.grid131 {
+  width: 368.64px;
+  height: 319.76px;
+  background: #c4c4c4;
+}
+.grid132 {
+  width: 368.64px;
+  height: 319.76px;
+  background: #c4c4c4;
+}
+.grid133 {
+  width: 368.64px;
+  height: 319.76px;
+  background: #c4c4c4;
+}
+.lattest {
+  align-items: center;
+}
+.rectangle-70 {
+  width: 312px;
+  height: 62px;
+  top: 1679px;
+  left: 544px;
+  background: #d9d9d9;
+}
+.lattesxt {
+  font-family: Public Sans;
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 62px;
+  letter-spacing: -2.4000000953674316px;
+  text-align: center;
+}
+.separate {
+  display: flex;
+  width: Fixed (1, 151px);
+  height: Hug (400px);
+  top: 995px;
+  left: 110px;
+  gap: 20px;
+}
+
+.rectangle20,
+.rectangle21,
+.rectangle22 {
+  flex: inherit;
+  width: 368px;
+  height: 521px;
+  background: #c4c4c4;
+}
+.rectangle20 {
+  top: 1880px;
+  left: 110px;
+}
+
+.rectangle21 {
+  top: 1795px;
+  left: 503px;
+}
+
+.rectangle22 {
+  top: 1880px;
+  left: 110px;
+}
+.ourpr {
+  align-items: center;
+}
+.pro-he {
+  text-align: center;
+}
+.pro-tex {
+  font-family: Public Sans;
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 62px;
+  letter-spacing: -2.4000000953674316px;
+  text-align: center;
+}
+.pro-btn {
+  width: 312px;
+  height: 62px;
+  top: 2717px;
+  left: 547px;
+  background: #d9d9d9;
+}
+.shope {
+  width: 1400px;
+  height: 1729px;
+  top: -236px;
+  left: 1356px;
+}
+.product-grid {
+  width: Hug (835px);
+  height: Hug (682px);
+  top: 455px;
+  left: 230px;
+  gap: 20px;
+}
+.btn-01 {
+  width: 312px;
+  height: 62px;
+  top: 1175px;
+  left: 488px;
+}
+.frame-2 {
+  width: Fixed (1, 125px);
+  height: Fixed (459px);
+  top: 2843px;
+  left: 138px;
+  gap: 20px;
+}
+.frame-21 {
+  display: flex;
+  width: 369px;
+  height: 460.9px;
+  padding: 0px, 1.36px, 92.45px, 0px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d9d9d9;
+  width: 1562px;
+  height: 277px;
+  top: 1154px;
+  left: -32px;
+}
+.centerd-h1 {
+  text-align: center;
+}
+
+.bought {
+  width: 385px;
+  height: 26px;
+  top: 174px;
+  left: 208px;
+}
+.buy {
+  font-family: Public Sans;
+  font-size: 62px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: -0.20000000298023224px;
+  text-align: left;
+}
+.rectanglef {
+  display: flex;
+  background: #d9d9d9;
+}
+.rect1 {
+  width: 482px;
+  height: 90px;
+  top: 308px;
+  left: 131px;
+}
+.rect2 {
+  width: 482px;
+  height: 90px;
+  top: 443px;
+  left: 131px;
+}
+.rect3 {
+  width: 482px;
+  height: 90px;
+  top: 578px;
+  left: 131px;
+}
+.rec4 {
+  width: 482px;
+  height: 90px;
+  top: 308px;
+  left: 727px;
+}
+.rect5 {
+  width: 482px;
+  height: 90px;
+  top: 443px;
+  left: 727px;
+}
+.rect6 {
+  width: 482px;
+  height: 90px;
+  top: 578px;
+  left: 727px;
+}
+.mes {
+  width: 977px;
+  height: 26px;
+  top: 777px;
+  left: 181px;
+}
+.lol {
+  font-family: Public Sans;
+  font-size: 62px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: -0.20000000298023224px;
+  text-align: left;
+}
