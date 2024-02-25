@@ -4,6 +4,7 @@ import {BrowserRouter} from 'react-router-dom'
 const Cart = () => {
   return (
     <>
+    
       <h3>Your cart</h3>
       <p>Not ready to checkout?coantinue shoping</p>
       <div className="order-collectio">
@@ -33,5 +34,6 @@ const Cart = () => {
       <button onClick={Shope}>Coantinue to checkout</button>
     </>
   );
+  
 };
 export default Cart;

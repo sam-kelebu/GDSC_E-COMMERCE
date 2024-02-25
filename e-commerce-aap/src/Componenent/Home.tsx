@@ -1,6 +1,7 @@
 import React from "react";
 import Cart from "./Cart";
 import Shope from "./Shope";
+import Mycart from "./Mycart";
 const Home = () => {
   return (
     <>
@@ -9,7 +10,7 @@ const Home = () => {
           <h2 className="text-header">Header</h2>
         </div>
         <div className="btoo">
-          <button className="nav-btn" onClick={Cart}>
+          <button className="nav-btn" onClick={Mycart}>
             Cart
           </button>
         </div>

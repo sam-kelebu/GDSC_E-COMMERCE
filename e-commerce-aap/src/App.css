@@ -16,10 +16,17 @@
   align-items: center;
 }
 .nav-btn {
-  margin-left: auto;
+  /* margin-left: auto; */
   width: 308px;
-  height: 89px;;
+  height: 89px;
   background: #b58d8d;
+  border: 2px solid red;
+  margin-right: -96%;
+  position: relative;
+
+  /* border: 2px solid red;
+  float: right;
+  position: inherit; */
 }
 .emptyheader {
   background: #c4c4c4;
@@ -253,4 +260,26 @@
   line-height: 26px;
   letter-spacing: -0.20000000298023224px;
   text-align: left;
+}
+@media (max-width: 768px) {
+ #navbar {
+    width: 100%;
+    padding: 0 20px;
+  }
+
+  .cata {
+    padding: 10px;
+  }
+
+ #navbar {
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+/* Mobile styles */
+@media (max-width: 480px) {
+  header {
+    padding: 5px;
+  }
 }
